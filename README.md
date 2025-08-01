@@ -1,4 +1,4 @@
-# ml-fraud-detection
+# ML-fraud-detection
 ML-based fraud detection using XGBoost and oversampling on transactional data.
 
 # 💼 Fraud Detection with XGBoost
