@@ -80,7 +80,5 @@ The dataset contains transactional records with the following key fields:
 
 This project demonstrates how machine learning and proper data handling techniques can help build a robust fraud detection system that balances accuracy and practical deployment constraints.
 
----
 
-## 📂 Folder Structure
 
